@@ -1,5 +1,5 @@
 JavaScript GitHub API with XHR
----
+--
 
 ## Objectives
 
